@@ -4191,7 +4191,7 @@ ul.gva-nav-menu>li>a {
     height: auto;
     position: relative;
     display: inline-block;
-    font-family: var(--pisole-heading-font-family);
+    font-family: sans-serif;
     color: var(--pisole-body-color);
     text-transform: uppercase;
     padding: 4px 18px;

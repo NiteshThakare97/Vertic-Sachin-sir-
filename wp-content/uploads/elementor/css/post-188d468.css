@@ -178,8 +178,9 @@ body:not(.rtl) .elementor-188 .elementor-element.elementor-element-61cfa53 .elem
 .elementor-188 .elementor-element.elementor-element-b7bdf99 .elementor-heading-title {
     font-size: 24px;
     font-weight: 600;
+    font-family: sans-serif;
     text-transform: uppercase;
-    letter-spacing: 1.8px;
+    letter-spacing: 1.1px;
     color: #ffffff;
 }
 
@@ -253,6 +254,7 @@ body:not(.rtl) .elementor-188 .elementor-element.elementor-element-c15ef8f .elem
 .elementor-188 .elementor-element.elementor-element-c15ef8f .elementor-icon-list-text {
     color: #c6cbe4;
     transition: color 0.3s;
+    font-family: sans-serif;
 }
 
 .elementor-188 .elementor-element.elementor-element-dafab82>.elementor-widget-wrap>.elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {

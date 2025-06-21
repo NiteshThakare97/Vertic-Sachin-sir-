@@ -1087,10 +1087,9 @@
 
 /* My CSS  */
 
-
-/* .elementor-element-b10ba7e {
+.elementor-element-b10ba7e {
     margin-top: 88px;
-} */
+}
 
 .elementor-element-a8eae751 {
     background: linear-gradient(90deg, #513dc0, #bb2f73, #f9b10c);
@@ -1206,12 +1205,11 @@
     }
 }
 
-
-/* @media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1200px) {
     .elementor-element-b10ba7e {
         margin-top: 0px;
     }
-} */
+}
 
 @media only screen and (min-width:600px) and (max-width: 1000px) {
     .elementor-element-a8eae751 .elementor-container h1 {
