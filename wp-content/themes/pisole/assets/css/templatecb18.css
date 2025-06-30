@@ -7874,7 +7874,7 @@ body.elementor-editor-active[data-elementor-device-mode*="widescreen"] .elemento
 
 .feature-one__single:hover .feature-one__content,
 .feature-one__single.active .feature-one__content {
-    opacity: 1;
+    opacity: .9;
     margin-bottom: 0;
 }
 
@@ -9264,7 +9264,7 @@ body.elementor-editor-active[data-elementor-device-mode*="widescreen"] .elemento
     height: 0;
     border-left: 25px solid transparent;
     border-right: 40px solid transparent;
-    border-top: 30px solid var(--e-global-color-primary);
+    border-top: 30px solid #5d38b8;
 }
 
 @media (max-width: 1024px) {
