@@ -556,7 +556,7 @@
 
 @media(max-width:1024px) {
     .elementor-541 .elementor-element.elementor-element-6eb20b3 {
-        padding: 90px 0px 90px 0px;
+        padding: 0px 0px 0px 0px;
     }
     .elementor-541 .elementor-element.elementor-element-c8dbe4d .gsc-heading .title {
         font-size: 38px;
@@ -567,7 +567,7 @@
         padding: 0px 0px 0px 0px;
     }
     .elementor-541 .elementor-element.elementor-element-ee7dd16 {
-        padding: 80px 0px 50px 0px;
+        padding: 30px 0px 50px 0px;
     }
     .elementor-541 .elementor-element.elementor-element-c03f390 {
         padding: 80px 0px 50px 0px;
@@ -583,10 +583,10 @@
         padding: 80px 0px 80px 0px;
     }
     .elementor-541 .elementor-element.elementor-element-e13047e {
-        --container-widget-width: 60%;
+        --container-widget-width: 95%;
         --container-widget-flex-grow: 0;
-        width: var(--container-widget-width, 60%);
-        max-width: 60%;
+        width: var(--container-widget-width, 95%);
+        max-width: 95%;
     }
     .elementor-541 .elementor-element.elementor-element-e13047e .elementor-heading-title {
         font-size: 40px;
@@ -621,7 +621,7 @@
         font-size: 16px;
     }
     .elementor-541 .elementor-element.elementor-element-b5ebbd3>.elementor-element-populated {
-        margin: -124px 15px 0px 5px;
+        margin: 50px 15px 0px 5px;
         --e-column-margin-right: 15px;
         --e-column-margin-left: 5px;
     }
@@ -662,7 +662,7 @@
         line-height: 40px;
     }
     .elementor-541 .elementor-element.elementor-element-84d50f8>.elementor-widget-container {
-        margin: 0px 0px 20px 0px;
+        margin: 0px 0px 0px 0px;
     }
     .elementor-541 .elementor-element.elementor-element-b5ebbd3>.elementor-element-populated {
         margin: 30px 0px 0px 0px;
@@ -756,6 +756,7 @@
 #abtsec3bg {
     position: absolute;
     bottom: 0px;
+    width: 100%;
 }
 
 .elementor-541 .elementor-element.elementor-element-ee7dd16 .feature-one__image:after {
@@ -873,4 +874,90 @@
 
 #abtsec2 .elementor-element-1b42f0c .elementor-widget-container .elementor-icon-box-content p {
     margin: 10px 0px 14px;
+}
+
+@media only screen and (min-width: 1600px) {
+    #abtsec4 {
+        padding: 9% 0% 5%;
+    }
+    #abtsec4-grap h1 {
+        font-size: 90px;
+    }
+    .elementor-541 .elementor-element.elementor-element-ee7dd16 {
+        padding: 70px 0px 180px 0px;
+    }
+}
+
+@media only screen and (min-width: 1380px) and (max-width: 1600px) {
+    #abtsec4 {
+        padding: 80px 0px 40px;
+    }
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1200px) {
+    #abtsec4-grap {
+        top: 8%;
+    }
+    #abtsec4-grap h1 {
+        right: 16%;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .elementor-541 .elementor-element.elementor-element-ee7dd16 .feature-one__desc {
+        line-height: 20px;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1000px) {
+    #abtsec4-grap {
+        top: 21%;
+    }
+    #abtsec4-grap h1 {
+        right: 10%;
+    }
+    #testimonial-icon {
+        right: 2%;
+        bottom: -3%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .elementor-element-427a2a3 {
+        margin-bottom: 20px;
+    }
+    .elementor-541 .elementor-element.elementor-element-d360d6a .elementor-widget-container {
+        padding: 40px 20px;
+    }
+    .elementor-541 .elementor-element.elementor-element-ee7dd16 {
+        padding: 70px 0px 0px 0px;
+    }
+    #abtsec4 {
+        padding-bottom: 255px;
+    }
+    #abtsec4-grap div {
+        width: 78%;
+        margin-left: auto;
+    }
+    #abtsec4-grap {
+        top: auto;
+        bottom: 3%;
+        width: 100%;
+    }
+    #abtsec4-grap h1 {
+        right: auto;
+        top: 36%;
+        left: -28%;
+        font-size: 45px;
+    }
+    #testimonial-icon,
+    .elementor-element-88d0128 h2 {
+        text-align: center;
+    }
+    #testimonial-icon img {
+        width: 75%;
+    }
+    .elementor-541 .elementor-element.elementor-element-4b67c2e .gsc-heading {
+        margin-bottom: 0%;
+    }
 }
